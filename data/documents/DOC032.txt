@@ -1,0 +1,15 @@
+MERIDIAN HEALTH SYSTEM
+LABORATORY REPORT
+==========================================================
+Deepa Kaminski, a 82-year-old female (MRN-326903), seen on 2026-01-23.
+
+LAB DATA
+  Creatinine            3.99 mg/dL
+  eGFR                  87 mL/min/1.73m2
+  Sodium .......... 141 mmol/L
+  Glucose (fasting): 290 mg/dL
+  HbA1c                 11 %
+
+
+----------------------------------------------------------
+Signed: Dr. Iyer, MD

@@ -1,0 +1,16 @@
+MERIDIAN HEALTH SYSTEM
+LABORATORY REPORT
+==========================================================
+Patient Name : Kavita Moreau
+Age / Sex    : 75 / F
+MRN          : MRN-292727
+Date         : 2026-01-14
+
+LABORATORY RESULTS
+  Hemoglobin            16 g/dL
+  Platelets             205 10^3/uL
+  WBC .......... 9 10^3/uL
+
+
+----------------------------------------------------------
+Signed: Dr. Rao, MD

@@ -1,0 +1,28 @@
+NORTHFIELD GENERAL HOSPITAL
+PATIENT INTAKE FORM
+==========================================================
+Patient Name : Robert Whitfield
+Age / Sex    : 59 / M
+MRN          : MRN-735260
+Date         : 2026-06-26
+
+Patient presents with palpitations at rest.
+
+Vitals on arrival:
+  Temp 36.9 C
+  P: 130
+  BP 120/92
+  Oxygen saturation 98% RA
+  (At last visit 7 weeks ago: BP was 134/66, pulse 61.)
+
+CURRENT MEDICATIONS
+  Metformin (1000 mg) - OD
+
+Known allergies:
+  Latex (anaphylaxis)
+
+SOCIAL HX: never smoked; alcohol occasional.
+
+
+----------------------------------------------------------
+Signed: Dr. Rao, MBBS

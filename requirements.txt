@@ -1,0 +1,17 @@
+# Runtime dependencies. This is what the deployed app installs.
+pydantic>=2.6
+streamlit>=1.40
+pandas>=2.0
+
+# Document ingestion
+pdfplumber>=0.11
+Pillow>=10.0
+
+# OCR for scanned PDFs and images.
+# Needs the Tesseract binary too -- packages.txt handles that on Streamlit Cloud;
+# locally: apt install tesseract-ocr / brew install tesseract
+pytesseract>=0.3.10
+
+# LLM arm. Only used when the extraction backend is set to "anthropic";
+# the app runs fully without an API key on the deterministic baseline arm.
+anthropic>=0.40

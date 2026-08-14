@@ -1,0 +1,7 @@
+# Only needed to regenerate artefacts or run the test suite.
+# Not installed by the deployed app.
+-r requirements.txt
+
+jsonschema>=4.0      # tests
+matplotlib>=3.7      # architecture diagram
+reportlab>=4.0       # PDF / scan fixtures

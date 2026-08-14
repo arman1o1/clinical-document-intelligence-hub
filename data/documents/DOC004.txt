@@ -1,0 +1,32 @@
+LAKESIDE COMMUNITY HOSPITAL
+PROGRESS NOTE
+==========================================================
+Patient Name : Arun Donnelly
+Age / Sex    : 49 / M
+MRN          : MRN-916783
+Date         : 2026-08-23
+
+C/O unintentional weight loss over 3 months.
+No history of burning epigastric pain.
+
+VITAL SIGNS
+  B/P 153 over 77 mmHg
+  SpO2 ...... 97%
+  Temp 36.5 C
+  Pulse rate ...... 91 bpm
+  (At last visit 8 weeks ago: BP was 133/72, pulse 65.)
+
+Assessment:
+  1. Essential Hypertension
+  2. COPD
+  Family history of Community-Acquired Pneumonia (father) - not active for this patient.
+
+CURRENT MEDICATIONS
+  - Levothyroxine 50 mcg OD
+  [Discontinued last month: Amlodipine - do not resume]
+
+Smoking status - never smoked.
+
+
+----------------------------------------------------------
+Signed: Dr. Patel, MD

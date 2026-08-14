@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+
+# build tooling for the deck/diagram -- not part of the deliverable
+node_modules/
+package.json
+package-lock.json
+
+# slide renders used for visual QA only
+docs/qa/
+
+# LibreOffice scratch
+*.tmp
+.~lock.*#
+
+# never commit secrets
+.streamlit/secrets.toml

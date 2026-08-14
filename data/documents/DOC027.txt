@@ -1,0 +1,25 @@
+LAKESIDE COMMUNITY HOSPITAL
+PATIENT INTAKE FORM
+==========================================================
+Kavita Rao, a 41-year-old female (MRN-569009), seen on 2026-08-24.
+
+Patient presents with burning epigastric pain.
+Patient specifically denies shortness of breath on exertion.
+
+Observations:
+  B/P 187 over 124 mmHg
+  Temperature ...... 98.3 F
+  Pulse rate ...... 81 bpm
+  O2 sat 91%
+  (At last visit 4 weeks ago: BP was 122/70, pulse 76.)
+
+Medications on admission:
+  - Lisinopril 10 mg once daily
+
+ALLERGIES: NKDA
+
+Social History: current smoker, 10 pack-years.
+
+
+----------------------------------------------------------
+Signed: Dr. Donnelly, MBBS

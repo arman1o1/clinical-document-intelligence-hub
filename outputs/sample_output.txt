@@ -1,0 +1,89 @@
+==========================================================================
+  CLINICAL DOCUMENT INTELLIGENCE HUB - PATIENT SUMMARY CARD
+==========================================================================
+  Document   : DEMO_discharge_summary  (discharge summary)
+  Routed to  : IMMEDIATE CLINICAL REVIEW
+  Urgency    : 100/100
+
+--------------------------------------------------------------------------
+  PATIENT
+--------------------------------------------------------------------------
+  Name            : Margaret Ellison  [1.00]
+  Age / Sex       : 71  [1.00] / F  [1.00]
+  MRN             : MRN-408815  [1.00]
+  Encounter date  : 2026-08-11  [1.00]
+  Chief complaint : shortness of breath on exertion with ankle swelling  [1.00]
+
+--------------------------------------------------------------------------
+  VITALS
+--------------------------------------------------------------------------
+  Blood pressure  : 186  [1.00] / 104  [1.00] mmHg
+  Heart rate      : 118 bpm  [1.00]
+  Temperature     : 99.1 F  [1.00]
+  SpO2            : 91 %  [1.00]
+
+--------------------------------------------------------------------------
+  DIAGNOSES
+--------------------------------------------------------------------------
+    - Congestive Heart Failure
+    - Type 2 Diabetes Mellitus
+    - Chronic Kidney Disease Stage 3
+
+--------------------------------------------------------------------------
+  ALLERGIES
+--------------------------------------------------------------------------
+    - Penicillin
+
+--------------------------------------------------------------------------
+  MEDICATIONS
+--------------------------------------------------------------------------
+    - Metformin             1000 mg   BD
+    - Furosemide            40 mg     OD
+    - Lisinopril            10 mg     OD
+    - Amoxicillin           500 mg    TDS
+
+--------------------------------------------------------------------------
+  LABORATORY RESULTS
+--------------------------------------------------------------------------
+    - Potassium               5.9 mmol/L
+    - Creatinine              2.4 mg/dL
+    - eGFR                    24.0 mL/min/1.73m2
+    - HbA1c                   9.8 %
+    - Hemoglobin              10.1 g/dL
+
+--------------------------------------------------------------------------
+  RISK FLAGS (10)
+--------------------------------------------------------------------------
+    [MODERATE] Potassium above reference range
+                 rule LAB.potassium.high  |  potassium=5.9
+    [MODERATE] Creatinine above reference range
+                 rule LAB.creatinine.high  |  creatinine=2.4
+    [CRITICAL] Critically low eGFR
+                 rule LAB.egfr.critical_low  |  egfr=24.0
+    [CRITICAL] Critically high HbA1c
+                 rule LAB.hba1c.critical_high  |  hba1c=9.8
+    [MODERATE] Hemoglobin below reference range
+                 rule LAB.hemoglobin.low  |  hemoglobin=10.1
+    [CRITICAL] Hypertensive crisis range
+                 rule VITAL.hypertensive_crisis  |  BP=186/104
+    [CRITICAL] Metformin contraindicated at eGFR < 30
+                 rule MED.metformin_egfr  |  metformin, eGFR=24.0
+    [HIGH    ] Potassium-raising drug with elevated potassium
+                 rule MED.acei_hyperkalaemia  |  lisinopril, K=5.9
+    [CRITICAL] Prescribed drug conflicts with documented Penicillin allergy
+                 rule SAFETY.allergy_conflict  |  allergy=Penicillin, drug=amoxicillin
+    [HIGH    ] High-risk diagnosis discharged with no follow-up documented
+                 rule CARE.no_followup_highrisk  |  congestive heart failure; chronic kidney disease stage 3
+
+--------------------------------------------------------------------------
+  HUMAN REVIEW QUEUE (0)
+--------------------------------------------------------------------------
+    Every field cleared verification.
+
+--------------------------------------------------------------------------
+  RECOMMENDED NEXT STEP
+--------------------------------------------------------------------------
+    Escalate to on-call clinician now. Driving flags: Critically low eGFR; Critically high HbA1c; Hypertensive crisis range
+==========================================================================
+  [n.nn] = computed confidence. Withheld fields are never shown as values.
+==========================================================================

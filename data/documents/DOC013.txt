@@ -1,0 +1,27 @@
+MERIDIAN HEALTH SYSTEM
+PATIENT INTAKE FORM
+==========================================================
+Anita Patel, a 35-year-old female (MRN-635401), seen on 2026-07-21.
+
+Chief Complaint: palpitations at rest
+
+VITALS
+  Blood Pressure ...... 209/128 mmHg
+  O2 sat 99%
+  Heart rate 42 beats per minute
+  Temperature ...... 98.9 F
+  (At last visit 6 weeks ago: BP was 131/74, pulse 74.)
+
+Rx:
+  * Warfarin, 3 mg, once daily
+  Levothyroxine (50 mcg) - OD
+  Atorvastatin (40 mg) - OD
+
+ALLERGIES
+  Latex - reaction: rash
+
+Tobacco: ex-smoker, quit 2019.
+
+
+----------------------------------------------------------
+Signed: Dr. Okafor, MD

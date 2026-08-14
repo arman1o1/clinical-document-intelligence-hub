@@ -1,0 +1,27 @@
+LAKESIDE COMMUNITY HOSPITAL
+PROGRESS NOTE
+==========================================================
+Patient Name : Robert Banerjee
+Age / Sex    : 42 / M
+MRN          : MRN-690541
+Date         : 2026-01-25
+
+C/O persistent productive cough.
+Denies palpitations at rest.
+
+Observations:
+  Temp: 99.9 F   O2 sat 97%   Blood pressure 196/123   Pulse rate ...... 132 bpm
+
+DIAGNOSES
+  1. Congestive Heart Failure
+  2. Community-Acquired Pneumonia
+
+MEDICATION LIST
+  - Levothyroxine 100 mcg OD
+  - Warfarin 5 mg OD
+
+Tobacco: never smoker.
+
+
+----------------------------------------------------------
+Signed: Dr. Reddy, DO

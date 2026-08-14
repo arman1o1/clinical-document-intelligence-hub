@@ -1,0 +1,26 @@
+MERIDIAN HEALTH SYSTEM
+PROGRESS NOTE
+==========================================================
+Patient Name : Michael Iyer
+Age / Sex    : 88 / M
+MRN          : MRN-795240
+Date         : 2026-06-22
+
+Chief Complaint: fatigue and lightheadedness
+Patient specifically denies persistent productive cough.
+
+Observations:
+  B/P 131 over 90 mmHg, P: 126, Temperature 101.8°F, O2 sat 87%
+
+Assessment:
+  1. Iron Deficiency Anemia
+  2. Cellulitis of Lower Limb
+
+CURRENT MEDICATIONS
+  Amoxicillin (250 mg) - TDS
+
+Social History: ex-smoker, quit 2019.
+
+
+----------------------------------------------------------
+Signed: Dr. Kaminski, DO

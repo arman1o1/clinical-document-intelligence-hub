@@ -1,0 +1,27 @@
+MERIDIAN HEALTH SYSTEM
+PATIENT INTAKE FORM
+==========================================================
+Meera Kaminski, a 59-year-old female (MRN-519904), seen on 2026-02-23.
+
+Chief Complaint: palpitations at rest
+
+Vitals on arrival:
+  Oxygen saturation 82% RA
+  T 37.8°C
+  Blood pressure 126/69
+  P: 38
+  (At last visit 6 weeks ago: BP was 131/79, pulse 87.)
+
+MEDICATION LIST
+  - Salbutamol inhaler 2 puffs PRN
+  * Atorvastatin, 10 mg, at bedtime
+  * Ibuprofen, 400 mg, three times daily
+
+Drug allergies:
+  Penicillin - reaction: rash
+
+Social History: never smoker.
+
+
+----------------------------------------------------------
+Signed: Dr. Banerjee, MBBS

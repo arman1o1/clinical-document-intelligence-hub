@@ -1,0 +1,16 @@
+NORTHFIELD GENERAL HOSPITAL
+LABORATORY REPORT
+==========================================================
+Priya Reddy, a 31-year-old female (MRN-521433), seen on 2026-08-14.
+
+LAB DATA
+  Potassium: 4.88 mmol/L
+  eGFR: 23 mL/min/1.73m2
+  Glucose (fasting): 93 mg/dL
+  HbA1c                 12 %
+  Platelets .......... 376 10^3/uL
+  Troponin I: 0.02 ng/mL
+
+
+----------------------------------------------------------
+Signed: Dr. Sharma, DO

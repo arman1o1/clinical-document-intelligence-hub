@@ -1,0 +1,1564 @@
+[
+  {
+    "doc_id": "DOC001",
+    "document_type": "discharge_summary",
+    "patient_name": "Anil Okafor",
+    "age": 58,
+    "sex": "M",
+    "mrn": "MRN-718777",
+    "encounter_date": "2026-03-12",
+    "chief_complaint": "burning epigastric pain",
+    "smoking_status": null,
+    "discharge_disposition": "transferred to tertiary care centre",
+    "follow_up_days": 14,
+    "diagnoses": [
+      "Essential Hypertension",
+      "Atrial Fibrillation"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "dose": "500 mg",
+        "frequency": "BD"
+      }
+    ],
+    "labs": [
+      {
+        "name": "Hemoglobin",
+        "value": 8.0,
+        "unit": "g/dL"
+      },
+      {
+        "name": "Glucose (fasting)",
+        "value": 178.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "HbA1c",
+        "value": 5.23,
+        "unit": "%"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 112,
+      "bp_diastolic": 90,
+      "heart_rate": 122,
+      "temp_f": 99.7,
+      "spo2": 99
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC002",
+    "document_type": "intake_form",
+    "patient_name": "Susan Donnelly",
+    "age": 87,
+    "sex": "F",
+    "mrn": "MRN-335924",
+    "encounter_date": "2026-02-24",
+    "chief_complaint": "swelling of both ankles",
+    "smoking_status": "ex-smoker, quit 2019",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [
+      "Latex"
+    ],
+    "medications": [
+      {
+        "name": "Furosemide",
+        "dose": "20 mg",
+        "frequency": "BD"
+      },
+      {
+        "name": "Metformin",
+        "dose": "500 mg",
+        "frequency": "twice daily"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 116,
+      "bp_diastolic": 85,
+      "heart_rate": 75,
+      "temp_f": 100.9,
+      "spo2": 98
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC003",
+    "document_type": "discharge_summary",
+    "patient_name": "Linda Iyer",
+    "age": 30,
+    "sex": "F",
+    "mrn": "MRN-204631",
+    "encounter_date": "2026-08-23",
+    "chief_complaint": "persistent productive cough",
+    "smoking_status": null,
+    "discharge_disposition": "left against medical advice",
+    "follow_up_days": null,
+    "diagnoses": [
+      "Essential Hypertension"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "medications": [
+      {
+        "name": "Salbutamol inhaler",
+        "dose": "100 mcg",
+        "frequency": "as needed"
+      },
+      {
+        "name": "Atorvastatin",
+        "dose": "40 mg",
+        "frequency": "at bedtime"
+      },
+      {
+        "name": "Levothyroxine",
+        "dose": "50 mcg",
+        "frequency": "OD"
+      },
+      {
+        "name": "Metformin",
+        "dose": "1000 mg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [
+      {
+        "name": "Platelets",
+        "value": 351.0,
+        "unit": "10^3/uL"
+      },
+      {
+        "name": "Glucose (fasting)",
+        "value": 84.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "Potassium",
+        "value": 4.52,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "eGFR",
+        "value": 92.0,
+        "unit": "mL/min/1.73m2"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 202,
+      "bp_diastolic": 113,
+      "heart_rate": 95,
+      "temp_f": 100.6,
+      "spo2": 97
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC004",
+    "document_type": "physician_note",
+    "patient_name": "Arun Donnelly",
+    "age": 49,
+    "sex": "M",
+    "mrn": "MRN-916783",
+    "encounter_date": "2026-08-23",
+    "chief_complaint": "unintentional weight loss over 3 months",
+    "smoking_status": "never smoked",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [
+      "Essential Hypertension",
+      "COPD"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Levothyroxine",
+        "dose": "50 mcg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 153,
+      "bp_diastolic": 77,
+      "heart_rate": 91,
+      "temp_f": 97.7,
+      "spo2": 97
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC005",
+    "document_type": "physician_note",
+    "patient_name": "Susan Kaminski",
+    "age": 88,
+    "sex": "F",
+    "mrn": "MRN-839334",
+    "encounter_date": "2026-02-22",
+    "chief_complaint": "intermittent chest tightness",
+    "smoking_status": "never smoked",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [
+      "COPD",
+      "Cellulitis of Lower Limb"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Salbutamol inhaler",
+        "dose": "2 puffs",
+        "frequency": "PRN"
+      },
+      {
+        "name": "Furosemide",
+        "dose": "40 mg",
+        "frequency": "OD"
+      },
+      {
+        "name": "Warfarin",
+        "dose": "2 mg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 151,
+      "bp_diastolic": 66,
+      "heart_rate": 40,
+      "temp_f": 99.9,
+      "spo2": 86
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC006",
+    "document_type": "intake_form",
+    "patient_name": "Meera Kaminski",
+    "age": 59,
+    "sex": "F",
+    "mrn": "MRN-519904",
+    "encounter_date": "2026-02-23",
+    "chief_complaint": "palpitations at rest",
+    "smoking_status": "never smoker",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Salbutamol inhaler",
+        "dose": "2 puffs",
+        "frequency": "PRN"
+      },
+      {
+        "name": "Atorvastatin",
+        "dose": "10 mg",
+        "frequency": "at bedtime"
+      },
+      {
+        "name": "Ibuprofen",
+        "dose": "400 mg",
+        "frequency": "three times daily"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 126,
+      "bp_diastolic": 69,
+      "heart_rate": 38,
+      "temp_f": 100.0,
+      "spo2": 82
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC007",
+    "document_type": "intake_form",
+    "patient_name": "Robert Whitfield",
+    "age": 59,
+    "sex": "M",
+    "mrn": "MRN-735260",
+    "encounter_date": "2026-06-26",
+    "chief_complaint": "palpitations at rest",
+    "smoking_status": "never smoked",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [
+      "Latex"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "dose": "1000 mg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 120,
+      "bp_diastolic": 92,
+      "heart_rate": 130,
+      "temp_f": 98.4,
+      "spo2": 98
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC008",
+    "document_type": "discharge_summary",
+    "patient_name": "Susan Reddy",
+    "age": 48,
+    "sex": "F",
+    "mrn": "MRN-313325",
+    "encounter_date": "2026-01-27",
+    "chief_complaint": "palpitations at rest",
+    "smoking_status": null,
+    "discharge_disposition": "transferred to tertiary care centre",
+    "follow_up_days": 30,
+    "diagnoses": [
+      "Congestive Heart Failure",
+      "Community-Acquired Pneumonia",
+      "COPD"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Amoxicillin",
+        "dose": "500 mg",
+        "frequency": "three times daily"
+      },
+      {
+        "name": "Ibuprofen",
+        "dose": "200 mg",
+        "frequency": "three times daily"
+      }
+    ],
+    "labs": [
+      {
+        "name": "Troponin I",
+        "value": 1.46,
+        "unit": "ng/mL"
+      },
+      {
+        "name": "HbA1c",
+        "value": 5.48,
+        "unit": "%"
+      },
+      {
+        "name": "Creatinine",
+        "value": 3.04,
+        "unit": "mg/dL"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 128,
+      "bp_diastolic": 86,
+      "heart_rate": 49,
+      "temp_f": 101.9,
+      "spo2": 99
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC009",
+    "document_type": "physician_note",
+    "patient_name": "Robert Banerjee",
+    "age": 42,
+    "sex": "M",
+    "mrn": "MRN-690541",
+    "encounter_date": "2026-01-25",
+    "chief_complaint": "persistent productive cough",
+    "smoking_status": "never smoker",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [
+      "Congestive Heart Failure",
+      "Community-Acquired Pneumonia"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Levothyroxine",
+        "dose": "100 mcg",
+        "frequency": "OD"
+      },
+      {
+        "name": "Warfarin",
+        "dose": "5 mg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 196,
+      "bp_diastolic": 123,
+      "heart_rate": 132,
+      "temp_f": 99.9,
+      "spo2": 97
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC010",
+    "document_type": "discharge_summary",
+    "patient_name": "Linda Whitfield",
+    "age": 55,
+    "sex": "F",
+    "mrn": "MRN-442244",
+    "encounter_date": "2026-01-24",
+    "chief_complaint": "fatigue and lightheadedness",
+    "smoking_status": null,
+    "discharge_disposition": "transferred to tertiary care centre",
+    "follow_up_days": 14,
+    "diagnoses": [
+      "Atrial Fibrillation",
+      "Iron Deficiency Anemia",
+      "Acute Coronary Syndrome"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Iodinated contrast"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dose": "10 mg",
+        "frequency": "once daily"
+      }
+    ],
+    "labs": [
+      {
+        "name": "HbA1c",
+        "value": 5.48,
+        "unit": "%"
+      },
+      {
+        "name": "WBC",
+        "value": 10.0,
+        "unit": "10^3/uL"
+      },
+      {
+        "name": "Glucose (fasting)",
+        "value": 86.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "Creatinine",
+        "value": 1.05,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "Potassium",
+        "value": 3.11,
+        "unit": "mmol/L"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 141,
+      "bp_diastolic": 65,
+      "heart_rate": 84,
+      "temp_f": 99.4,
+      "spo2": 96
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC011",
+    "document_type": "intake_form",
+    "patient_name": "David Rao",
+    "age": 70,
+    "sex": "M",
+    "mrn": "MRN-287124",
+    "encounter_date": "2026-04-16",
+    "chief_complaint": "shortness of breath on exertion",
+    "smoking_status": "never smoked",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [
+      "Iodinated contrast"
+    ],
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "dose": "40 mg",
+        "frequency": "nocte"
+      },
+      {
+        "name": "Metformin",
+        "dose": "850 mg",
+        "frequency": "BD"
+      },
+      {
+        "name": "Levothyroxine",
+        "dose": "100 mcg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 128,
+      "bp_diastolic": 76,
+      "heart_rate": 146,
+      "temp_f": 99.3,
+      "spo2": 84
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC012",
+    "document_type": "physician_note",
+    "patient_name": "James Reddy",
+    "age": 83,
+    "sex": "M",
+    "mrn": "MRN-161919",
+    "encounter_date": "2026-01-13",
+    "chief_complaint": "fatigue and lightheadedness",
+    "smoking_status": "never smoked",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [
+      "Atrial Fibrillation",
+      "Osteoarthritis of Knee"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Salbutamol inhaler",
+        "dose": "100 mcg",
+        "frequency": "PRN"
+      },
+      {
+        "name": "Furosemide",
+        "dose": "20 mg",
+        "frequency": "BD"
+      },
+      {
+        "name": "Ibuprofen",
+        "dose": "400 mg",
+        "frequency": "three times daily"
+      },
+      {
+        "name": "Warfarin",
+        "dose": "3 mg",
+        "frequency": "once daily"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 130,
+      "bp_diastolic": 63,
+      "heart_rate": 76,
+      "temp_f": 97.6,
+      "spo2": 97
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC013",
+    "document_type": "intake_form",
+    "patient_name": "Anita Patel",
+    "age": 35,
+    "sex": "F",
+    "mrn": "MRN-635401",
+    "encounter_date": "2026-07-21",
+    "chief_complaint": "palpitations at rest",
+    "smoking_status": "ex-smoker, quit 2019",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [
+      "Latex"
+    ],
+    "medications": [
+      {
+        "name": "Warfarin",
+        "dose": "3 mg",
+        "frequency": "once daily"
+      },
+      {
+        "name": "Levothyroxine",
+        "dose": "50 mcg",
+        "frequency": "OD"
+      },
+      {
+        "name": "Atorvastatin",
+        "dose": "40 mg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 209,
+      "bp_diastolic": 128,
+      "heart_rate": 42,
+      "temp_f": 98.9,
+      "spo2": 99
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC014",
+    "document_type": "discharge_summary",
+    "patient_name": "Priya Okafor",
+    "age": 25,
+    "sex": "F",
+    "mrn": "MRN-139204",
+    "encounter_date": "2026-03-17",
+    "chief_complaint": "swelling of both ankles",
+    "smoking_status": null,
+    "discharge_disposition": "transferred to tertiary care centre",
+    "follow_up_days": 7,
+    "diagnoses": [
+      "Atrial Fibrillation",
+      "Iron Deficiency Anemia"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Amoxicillin",
+        "dose": "250 mg",
+        "frequency": "TDS"
+      }
+    ],
+    "labs": [
+      {
+        "name": "Glucose (fasting)",
+        "value": 281.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "Platelets",
+        "value": 115.0,
+        "unit": "10^3/uL"
+      },
+      {
+        "name": "eGFR",
+        "value": 85.0,
+        "unit": "mL/min/1.73m2"
+      },
+      {
+        "name": "Sodium",
+        "value": 128.0,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "Potassium",
+        "value": 3.97,
+        "unit": "mmol/L"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 115,
+      "bp_diastolic": 73,
+      "heart_rate": 38,
+      "temp_f": 100.4,
+      "spo2": 88
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC015",
+    "document_type": "discharge_summary",
+    "patient_name": "Michael Banerjee",
+    "age": 40,
+    "sex": "M",
+    "mrn": "MRN-709331",
+    "encounter_date": "2026-06-24",
+    "chief_complaint": "fatigue and lightheadedness",
+    "smoking_status": null,
+    "discharge_disposition": "transferred to tertiary care centre",
+    "follow_up_days": 3,
+    "diagnoses": [
+      "Essential Hypertension",
+      "Congestive Heart Failure"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Salbutamol inhaler",
+        "dose": "100 mcg",
+        "frequency": "PRN"
+      },
+      {
+        "name": "Lisinopril",
+        "dose": "20 mg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [
+      {
+        "name": "WBC",
+        "value": 9.0,
+        "unit": "10^3/uL"
+      },
+      {
+        "name": "Potassium",
+        "value": 4.14,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "Glucose (fasting)",
+        "value": 169.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "HbA1c",
+        "value": 5.34,
+        "unit": "%"
+      },
+      {
+        "name": "Platelets",
+        "value": 362.0,
+        "unit": "10^3/uL"
+      },
+      {
+        "name": "Creatinine",
+        "value": 1.03,
+        "unit": "mg/dL"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 146,
+      "bp_diastolic": 81,
+      "heart_rate": 96,
+      "temp_f": 100.7,
+      "spo2": 97
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC016",
+    "document_type": "intake_form",
+    "patient_name": "David Lindqvist",
+    "age": 39,
+    "sex": "M",
+    "mrn": "MRN-646246",
+    "encounter_date": "2026-06-13",
+    "chief_complaint": "left calf redness and warmth",
+    "smoking_status": "never smoked",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [
+      "Aspirin",
+      "Sulfa drugs"
+    ],
+    "medications": [
+      {
+        "name": "Ibuprofen",
+        "dose": "400 mg",
+        "frequency": "PRN"
+      },
+      {
+        "name": "Metformin",
+        "dose": "1000 mg",
+        "frequency": "BD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 146,
+      "bp_diastolic": 70,
+      "heart_rate": 144,
+      "temp_f": 100.2,
+      "spo2": 86
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC017",
+    "document_type": "lab_report",
+    "patient_name": "Kavita Moreau",
+    "age": 75,
+    "sex": "F",
+    "mrn": "MRN-292727",
+    "encounter_date": "2026-01-14",
+    "chief_complaint": null,
+    "smoking_status": null,
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [],
+    "medications": [],
+    "labs": [
+      {
+        "name": "Hemoglobin",
+        "value": 16.0,
+        "unit": "g/dL"
+      },
+      {
+        "name": "Platelets",
+        "value": 205.0,
+        "unit": "10^3/uL"
+      },
+      {
+        "name": "WBC",
+        "value": 9.0,
+        "unit": "10^3/uL"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": null,
+      "bp_diastolic": null,
+      "heart_rate": null,
+      "temp_f": null,
+      "spo2": null
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC018",
+    "document_type": "intake_form",
+    "patient_name": "Vikram Okafor",
+    "age": 81,
+    "sex": "M",
+    "mrn": "MRN-639262",
+    "encounter_date": "2026-08-19",
+    "chief_complaint": "palpitations at rest",
+    "smoking_status": "never smoked",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [
+      "Aspirin",
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dose": "10 mg",
+        "frequency": "OD"
+      },
+      {
+        "name": "Warfarin",
+        "dose": "3 mg",
+        "frequency": "once daily"
+      },
+      {
+        "name": "Amlodipine",
+        "dose": "5 mg",
+        "frequency": "once daily"
+      },
+      {
+        "name": "Ibuprofen",
+        "dose": "200 mg",
+        "frequency": "three times daily"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 147,
+      "bp_diastolic": 65,
+      "heart_rate": 146,
+      "temp_f": 98.1,
+      "spo2": 99
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC019",
+    "document_type": "physician_note",
+    "patient_name": "Michael Iyer",
+    "age": 88,
+    "sex": "M",
+    "mrn": "MRN-795240",
+    "encounter_date": "2026-06-22",
+    "chief_complaint": "fatigue and lightheadedness",
+    "smoking_status": "ex-smoker, quit 2019",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [
+      "Iron Deficiency Anemia",
+      "Cellulitis of Lower Limb"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Amoxicillin",
+        "dose": "250 mg",
+        "frequency": "TDS"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 131,
+      "bp_diastolic": 90,
+      "heart_rate": 126,
+      "temp_f": 101.8,
+      "spo2": 87
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC020",
+    "document_type": "discharge_summary",
+    "patient_name": "Anita Nair",
+    "age": 39,
+    "sex": "F",
+    "mrn": "MRN-388872",
+    "encounter_date": "2026-03-27",
+    "chief_complaint": "recurrent morning headache",
+    "smoking_status": null,
+    "discharge_disposition": "discharged home",
+    "follow_up_days": 30,
+    "diagnoses": [
+      "Type 2 Diabetes Mellitus"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "dose": "40 mg",
+        "frequency": "OD"
+      },
+      {
+        "name": "Ibuprofen",
+        "dose": "200 mg",
+        "frequency": "PRN"
+      }
+    ],
+    "labs": [
+      {
+        "name": "Troponin I",
+        "value": 0.02,
+        "unit": "ng/mL"
+      },
+      {
+        "name": "Potassium",
+        "value": 6.11,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "Creatinine",
+        "value": 1.11,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "eGFR",
+        "value": 101.0,
+        "unit": "mL/min/1.73m2"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 125,
+      "bp_diastolic": 89,
+      "heart_rate": 122,
+      "temp_f": 98.9,
+      "spo2": 95
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC021",
+    "document_type": "lab_report",
+    "patient_name": "Deepa Rao",
+    "age": 31,
+    "sex": "F",
+    "mrn": "MRN-271778",
+    "encounter_date": "2026-07-24",
+    "chief_complaint": null,
+    "smoking_status": null,
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [],
+    "medications": [],
+    "labs": [
+      {
+        "name": "Troponin I",
+        "value": 0.03,
+        "unit": "ng/mL"
+      },
+      {
+        "name": "Glucose (fasting)",
+        "value": 219.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "HbA1c",
+        "value": 5.3,
+        "unit": "%"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": null,
+      "bp_diastolic": null,
+      "heart_rate": null,
+      "temp_f": null,
+      "spo2": null
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC022",
+    "document_type": "physician_note",
+    "patient_name": "Karen Moreau",
+    "age": 61,
+    "sex": "F",
+    "mrn": "MRN-952798",
+    "encounter_date": "2026-03-10",
+    "chief_complaint": "left calf redness and warmth",
+    "smoking_status": "never smoker",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [
+      "Osteoarthritis of Knee",
+      "Hypothyroidism",
+      "Community-Acquired Pneumonia"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Furosemide",
+        "dose": "20 mg",
+        "frequency": "OD"
+      },
+      {
+        "name": "Levothyroxine",
+        "dose": "50 mcg",
+        "frequency": "once daily"
+      },
+      {
+        "name": "Ibuprofen",
+        "dose": "200 mg",
+        "frequency": "TDS"
+      },
+      {
+        "name": "Salbutamol inhaler",
+        "dose": "2 puffs",
+        "frequency": "PRN"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 111,
+      "bp_diastolic": 69,
+      "heart_rate": 139,
+      "temp_f": 100.7,
+      "spo2": 90
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC023",
+    "document_type": "lab_report",
+    "patient_name": "Emily Whitfield",
+    "age": 64,
+    "sex": "F",
+    "mrn": "MRN-475899",
+    "encounter_date": "2026-08-14",
+    "chief_complaint": null,
+    "smoking_status": null,
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [],
+    "medications": [],
+    "labs": [
+      {
+        "name": "HbA1c",
+        "value": 5.23,
+        "unit": "%"
+      },
+      {
+        "name": "Potassium",
+        "value": 3.77,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "eGFR",
+        "value": 30.0,
+        "unit": "mL/min/1.73m2"
+      },
+      {
+        "name": "Troponin I",
+        "value": 0.02,
+        "unit": "ng/mL"
+      },
+      {
+        "name": "Hemoglobin",
+        "value": 16.0,
+        "unit": "g/dL"
+      },
+      {
+        "name": "WBC",
+        "value": 10.0,
+        "unit": "10^3/uL"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": null,
+      "bp_diastolic": null,
+      "heart_rate": null,
+      "temp_f": null,
+      "spo2": null
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC024",
+    "document_type": "lab_report",
+    "patient_name": "Priya Reddy",
+    "age": 31,
+    "sex": "F",
+    "mrn": "MRN-521433",
+    "encounter_date": "2026-08-14",
+    "chief_complaint": null,
+    "smoking_status": null,
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [],
+    "medications": [],
+    "labs": [
+      {
+        "name": "Potassium",
+        "value": 4.88,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "eGFR",
+        "value": 23.0,
+        "unit": "mL/min/1.73m2"
+      },
+      {
+        "name": "Glucose (fasting)",
+        "value": 93.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "HbA1c",
+        "value": 12.0,
+        "unit": "%"
+      },
+      {
+        "name": "Platelets",
+        "value": 376.0,
+        "unit": "10^3/uL"
+      },
+      {
+        "name": "Troponin I",
+        "value": 0.02,
+        "unit": "ng/mL"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": null,
+      "bp_diastolic": null,
+      "heart_rate": null,
+      "temp_f": null,
+      "spo2": null
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC025",
+    "document_type": "physician_note",
+    "patient_name": "Deepa Okafor",
+    "age": 78,
+    "sex": "F",
+    "mrn": "MRN-129984",
+    "encounter_date": "2026-06-24",
+    "chief_complaint": "persistent productive cough",
+    "smoking_status": "ex-smoker, quit 2019",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [
+      "Iron Deficiency Anemia"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "dose": "40 mg",
+        "frequency": "at bedtime"
+      },
+      {
+        "name": "Furosemide",
+        "dose": "40 mg",
+        "frequency": "BD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 188,
+      "bp_diastolic": 124,
+      "heart_rate": 79,
+      "temp_f": 102.8,
+      "spo2": 95
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC026",
+    "document_type": "discharge_summary",
+    "patient_name": "Deepa Rao",
+    "age": 69,
+    "sex": "F",
+    "mrn": "MRN-826417",
+    "encounter_date": "2026-06-27",
+    "chief_complaint": "palpitations at rest",
+    "smoking_status": null,
+    "discharge_disposition": "discharged to skilled nursing facility",
+    "follow_up_days": 7,
+    "diagnoses": [
+      "Type 2 Diabetes Mellitus",
+      "Atrial Fibrillation"
+    ],
+    "allergies": [
+      "Iodinated contrast",
+      "Latex"
+    ],
+    "medications": [
+      {
+        "name": "Atorvastatin",
+        "dose": "20 mg",
+        "frequency": "OD"
+      },
+      {
+        "name": "Ibuprofen",
+        "dose": "200 mg",
+        "frequency": "three times daily"
+      },
+      {
+        "name": "Levothyroxine",
+        "dose": "75 mcg",
+        "frequency": "once daily"
+      }
+    ],
+    "labs": [
+      {
+        "name": "Platelets",
+        "value": 102.0,
+        "unit": "10^3/uL"
+      },
+      {
+        "name": "Creatinine",
+        "value": 3.04,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "eGFR",
+        "value": 20.0,
+        "unit": "mL/min/1.73m2"
+      },
+      {
+        "name": "Sodium",
+        "value": 139.0,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "Troponin I",
+        "value": 0.46,
+        "unit": "ng/mL"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 194,
+      "bp_diastolic": 123,
+      "heart_rate": 44,
+      "temp_f": 100.7,
+      "spo2": 98
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC027",
+    "document_type": "intake_form",
+    "patient_name": "Kavita Rao",
+    "age": 41,
+    "sex": "F",
+    "mrn": "MRN-569009",
+    "encounter_date": "2026-08-24",
+    "chief_complaint": "burning epigastric pain",
+    "smoking_status": "current smoker, 10 pack-years",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dose": "10 mg",
+        "frequency": "once daily"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 187,
+      "bp_diastolic": 124,
+      "heart_rate": 81,
+      "temp_f": 98.3,
+      "spo2": 91
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC028",
+    "document_type": "lab_report",
+    "patient_name": "David Patel",
+    "age": 25,
+    "sex": "M",
+    "mrn": "MRN-640639",
+    "encounter_date": "2026-07-17",
+    "chief_complaint": null,
+    "smoking_status": null,
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [],
+    "medications": [],
+    "labs": [
+      {
+        "name": "Sodium",
+        "value": 142.0,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "Potassium",
+        "value": 4.63,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "Hemoglobin",
+        "value": 10.0,
+        "unit": "g/dL"
+      },
+      {
+        "name": "HbA1c",
+        "value": 10.0,
+        "unit": "%"
+      },
+      {
+        "name": "Platelets",
+        "value": 112.0,
+        "unit": "10^3/uL"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": null,
+      "bp_diastolic": null,
+      "heart_rate": null,
+      "temp_f": null,
+      "spo2": null
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC029",
+    "document_type": "discharge_summary",
+    "patient_name": "David Okafor",
+    "age": 59,
+    "sex": "M",
+    "mrn": "MRN-874121",
+    "encounter_date": "2026-08-22",
+    "chief_complaint": "swelling of both ankles",
+    "smoking_status": null,
+    "discharge_disposition": "discharged home with home health",
+    "follow_up_days": null,
+    "diagnoses": [
+      "Essential Hypertension",
+      "Osteoarthritis of Knee",
+      "Acute Coronary Syndrome"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "dose": "500 mg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [
+      {
+        "name": "Troponin I",
+        "value": 1.05,
+        "unit": "ng/mL"
+      },
+      {
+        "name": "Potassium",
+        "value": 4.69,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "Creatinine",
+        "value": 2.94,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "eGFR",
+        "value": 35.0,
+        "unit": "mL/min/1.73m2"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": 209,
+      "bp_diastolic": 121,
+      "heart_rate": 41,
+      "temp_f": 99.6,
+      "spo2": 97
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC030",
+    "document_type": "lab_report",
+    "patient_name": "Kavita Patel",
+    "age": 33,
+    "sex": "F",
+    "mrn": "MRN-331609",
+    "encounter_date": "2026-04-20",
+    "chief_complaint": null,
+    "smoking_status": null,
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [],
+    "medications": [],
+    "labs": [
+      {
+        "name": "Potassium",
+        "value": 3.79,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "HbA1c",
+        "value": 4.98,
+        "unit": "%"
+      },
+      {
+        "name": "Troponin I",
+        "value": 0.01,
+        "unit": "ng/mL"
+      },
+      {
+        "name": "Glucose (fasting)",
+        "value": 306.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "eGFR",
+        "value": 35.0,
+        "unit": "mL/min/1.73m2"
+      },
+      {
+        "name": "Sodium",
+        "value": 139.0,
+        "unit": "mmol/L"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": null,
+      "bp_diastolic": null,
+      "heart_rate": null,
+      "temp_f": null,
+      "spo2": null
+    },
+    "_style": "structured"
+  },
+  {
+    "doc_id": "DOC031",
+    "document_type": "physician_note",
+    "patient_name": "Robert Donnelly",
+    "age": 65,
+    "sex": "M",
+    "mrn": "MRN-142662",
+    "encounter_date": "2026-03-13",
+    "chief_complaint": "palpitations at rest",
+    "smoking_status": "current smoker, 25 pack-years",
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [
+      "Community-Acquired Pneumonia"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dose": "5 mg",
+        "frequency": "once daily"
+      },
+      {
+        "name": "Metformin",
+        "dose": "850 mg",
+        "frequency": "OD"
+      }
+    ],
+    "labs": [],
+    "vitals": {
+      "bp_systolic": 112,
+      "bp_diastolic": 68,
+      "heart_rate": 91,
+      "temp_f": 102.9,
+      "spo2": 89
+    },
+    "_style": "narrative"
+  },
+  {
+    "doc_id": "DOC032",
+    "document_type": "lab_report",
+    "patient_name": "Deepa Kaminski",
+    "age": 82,
+    "sex": "F",
+    "mrn": "MRN-326903",
+    "encounter_date": "2026-01-23",
+    "chief_complaint": null,
+    "smoking_status": null,
+    "discharge_disposition": null,
+    "follow_up_days": null,
+    "diagnoses": [],
+    "allergies": [],
+    "medications": [],
+    "labs": [
+      {
+        "name": "Creatinine",
+        "value": 3.99,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "eGFR",
+        "value": 87.0,
+        "unit": "mL/min/1.73m2"
+      },
+      {
+        "name": "Sodium",
+        "value": 141.0,
+        "unit": "mmol/L"
+      },
+      {
+        "name": "Glucose (fasting)",
+        "value": 290.0,
+        "unit": "mg/dL"
+      },
+      {
+        "name": "HbA1c",
+        "value": 11.0,
+        "unit": "%"
+      }
+    ],
+    "vitals": {
+      "bp_systolic": null,
+      "bp_diastolic": null,
+      "heart_rate": null,
+      "temp_f": null,
+      "spo2": null
+    },
+    "_style": "structured"
+  }
+]

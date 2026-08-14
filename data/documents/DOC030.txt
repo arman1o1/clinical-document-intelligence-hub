@@ -1,0 +1,16 @@
+MERIDIAN HEALTH SYSTEM
+LABORATORY REPORT
+==========================================================
+Kavita Patel, a 33-year-old female (MRN-331609), seen on 2026-04-20.
+
+LABORATORY RESULTS
+  Potassium: 3.79 mmol/L
+  HbA1c: 4.98 %
+  Troponin I            0.01 ng/mL
+  Glucose (fasting): 306 mg/dL
+  eGFR .......... 35 mL/min/1.73m2
+  Sodium: 139 mmol/L
+
+
+----------------------------------------------------------
+Signed: Dr. Rao, MD

@@ -1,0 +1,410 @@
+{
+  "gated": {
+    "n_documents": 32,
+    "doc_type_accuracy": 0.625,
+    "fields_surfaced": 293,
+    "fields_withheld": 0,
+    "silent_error_rate": 0.1399,
+    "surfaced_precision": 0.8601,
+    "abstention_rate": 0.0,
+    "missed_present_fields": 177,
+    "per_field": {
+      "age": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "allergies": {
+        "surfaced": 32,
+        "correct": 25,
+        "wrong": 7,
+        "withheld": 0,
+        "missed": 0,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "bp_diastolic": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "bp_systolic": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "chief_complaint": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "diagnoses": {
+        "surfaced": 32,
+        "correct": 21,
+        "wrong": 11,
+        "withheld": 0,
+        "missed": 0,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "discharge_disposition": {
+        "surfaced": 1,
+        "correct": 1,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 8,
+        "correct_absent": 23,
+        "spurious": 0
+      },
+      "encounter_date": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "follow_up_days": {
+        "surfaced": 1,
+        "correct": 1,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 6,
+        "correct_absent": 25,
+        "spurious": 0
+      },
+      "heart_rate": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "labs": {
+        "surfaced": 32,
+        "correct": 22,
+        "wrong": 10,
+        "withheld": 0,
+        "missed": 0,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "medications": {
+        "surfaced": 32,
+        "correct": 19,
+        "wrong": 13,
+        "withheld": 0,
+        "missed": 0,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "mrn": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "patient_name": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "sex": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "smoking_status": {
+        "surfaced": 11,
+        "correct": 11,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 5,
+        "correct_absent": 16,
+        "spurious": 0
+      },
+      "spo2": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "temp_f": {
+        "surfaced": 7,
+        "correct": 7,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 18,
+        "correct_absent": 7,
+        "spurious": 0
+      }
+    },
+    "list_prf": {
+      "allergies": {
+        "precision": 0.7812,
+        "recall": 0.7812,
+        "f1": 0.7812,
+        "false_positives": 0,
+        "false_negatives": 10
+      },
+      "diagnoses": {
+        "precision": 0.6562,
+        "recall": 0.6562,
+        "f1": 0.6562,
+        "false_positives": 0,
+        "false_negatives": 21
+      },
+      "labs": {
+        "precision": 0.6875,
+        "recall": 0.6875,
+        "f1": 0.6875,
+        "false_positives": 0,
+        "false_negatives": 44
+      },
+      "medications": {
+        "precision": 0.5938,
+        "recall": 0.5938,
+        "f1": 0.5938,
+        "false_positives": 0,
+        "false_negatives": 27
+      }
+    }
+  },
+  "ungated": {
+    "n_documents": 32,
+    "doc_type_accuracy": 0.625,
+    "fields_surfaced": 293,
+    "fields_withheld": 0,
+    "silent_error_rate": 0.1399,
+    "surfaced_precision": 0.8601,
+    "abstention_rate": 0.0,
+    "missed_present_fields": 177,
+    "per_field": {
+      "age": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "allergies": {
+        "surfaced": 32,
+        "correct": 25,
+        "wrong": 7,
+        "withheld": 0,
+        "missed": 0,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "bp_diastolic": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "bp_systolic": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "chief_complaint": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "diagnoses": {
+        "surfaced": 32,
+        "correct": 21,
+        "wrong": 11,
+        "withheld": 0,
+        "missed": 0,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "discharge_disposition": {
+        "surfaced": 1,
+        "correct": 1,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 8,
+        "correct_absent": 23,
+        "spurious": 0
+      },
+      "encounter_date": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "follow_up_days": {
+        "surfaced": 1,
+        "correct": 1,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 6,
+        "correct_absent": 25,
+        "spurious": 0
+      },
+      "heart_rate": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "labs": {
+        "surfaced": 32,
+        "correct": 22,
+        "wrong": 10,
+        "withheld": 0,
+        "missed": 0,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "medications": {
+        "surfaced": 32,
+        "correct": 19,
+        "wrong": 13,
+        "withheld": 0,
+        "missed": 0,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "mrn": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "patient_name": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "sex": {
+        "surfaced": 17,
+        "correct": 17,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 15,
+        "correct_absent": 0,
+        "spurious": 0
+      },
+      "smoking_status": {
+        "surfaced": 11,
+        "correct": 11,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 5,
+        "correct_absent": 16,
+        "spurious": 0
+      },
+      "spo2": {
+        "surfaced": 12,
+        "correct": 12,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 13,
+        "correct_absent": 7,
+        "spurious": 0
+      },
+      "temp_f": {
+        "surfaced": 7,
+        "correct": 7,
+        "wrong": 0,
+        "withheld": 0,
+        "missed": 18,
+        "correct_absent": 7,
+        "spurious": 0
+      }
+    },
+    "list_prf": {
+      "allergies": {
+        "precision": 0.7812,
+        "recall": 0.7812,
+        "f1": 0.7812,
+        "false_positives": 0,
+        "false_negatives": 10
+      },
+      "diagnoses": {
+        "precision": 0.6562,
+        "recall": 0.6562,
+        "f1": 0.6562,
+        "false_positives": 0,
+        "false_negatives": 21
+      },
+      "labs": {
+        "precision": 0.6875,
+        "recall": 0.6875,
+        "f1": 0.6875,
+        "false_positives": 0,
+        "false_negatives": 44
+      },
+      "medications": {
+        "precision": 0.5938,
+        "recall": 0.5938,
+        "f1": 0.5938,
+        "false_positives": 0,
+        "false_negatives": 27
+      }
+    }
+  }
+}

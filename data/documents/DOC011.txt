@@ -1,0 +1,26 @@
+ST. ANDREW'S REGIONAL MEDICAL CENTER
+PATIENT INTAKE FORM
+==========================================================
+Patient Name : David Rao
+Age / Sex    : 70 / M
+MRN          : MRN-287124
+Date         : 2026-04-16
+
+Patient presents with shortness of breath on exertion.
+
+VITAL SIGNS
+  BP: 128/76 mmHg | Temp: 99.3 F | SpO2 ...... 84% | HR: 146 bpm
+
+Rx:
+  Atorvastatin (40 mg) - nocte
+  * Metformin, 850 mg, BD
+  Levothyroxine (100 mcg) - OD
+
+Known allergies:
+  Iodinated contrast - reaction: rash
+
+Smoking status - never smoked.
+
+
+----------------------------------------------------------
+Signed: Dr. Nair, MD

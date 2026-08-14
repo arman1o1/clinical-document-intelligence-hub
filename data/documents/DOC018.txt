@@ -1,0 +1,27 @@
+NORTHFIELD GENERAL HOSPITAL
+PATIENT INTAKE FORM
+==========================================================
+Patient Name : Vikram Okafor
+Age / Sex    : 81 / M
+MRN          : MRN-639262
+Date         : 2026-08-19
+
+Chief Complaint: palpitations at rest
+
+VITAL SIGNS
+  T 36.7°C   B/P 147 over 65 mmHg   Pulse 146/min   SaO2 99%
+
+MEDICATION LIST
+  - Lisinopril 10 mg OD
+  - Warfarin 3 mg once daily
+  * Amlodipine, 5 mg, once daily
+  * Ibuprofen, 200 mg, three times daily
+
+Known allergies:
+  Aspirin; Penicillin - urticaria
+
+Smoking status - never smoked.
+
+
+----------------------------------------------------------
+Signed: Dr. Menon, MBBS

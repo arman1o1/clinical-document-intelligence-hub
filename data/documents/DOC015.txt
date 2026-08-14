@@ -1,0 +1,40 @@
+MERIDIAN HEALTH SYSTEM
+DISCHARGE SUMMARY
+==========================================================
+Patient Name : Michael Banerjee
+Age / Sex    : 40 / M
+MRN          : MRN-709331
+Date         : 2026-06-24
+
+Presenting complaint - fatigue and lightheadedness.
+
+VITALS
+  Oxygen saturation 97% RA
+  T 38.2°C
+  Heart rate 96 beats per minute
+  B/P 146 over 81 mmHg
+
+Active Problem List:
+  1. Essential Hypertension
+  2. Congestive Heart Failure
+
+Rx:
+  * Salbutamol inhaler, 100 mcg, PRN
+  * Lisinopril, 20 mg, OD
+
+Drug allergies:
+  Penicillin (anaphylaxis)
+
+Investigations:
+  WBC: 9 10^3/uL
+  Potassium: 4.14 mmol/L
+  Glucose (fasting): 169 mg/dL
+  HbA1c .......... 5.34 %
+  Platelets: 362 10^3/uL
+  Creatinine: 1.03 mg/dL
+
+DISPOSITION - transferred to tertiary care centre
+Follow-up in 3 days.
+
+----------------------------------------------------------
+Signed: Dr. Menon, MBBS
